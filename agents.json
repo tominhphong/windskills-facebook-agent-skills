@@ -1,0 +1,94 @@
+{
+  "schema": "https://windskills.dev/agents.json",
+  "version": "2026.10",
+  "provider": {
+    "name": "WindSkills",
+    "founder": "Phong",
+    "location": "Sherman, TX",
+    "url": "https://windskills.dev/",
+    "store_url": "https://windcvs.gumroad.com/l/facebook-agent-skills-pack",
+    "social_links": [
+      "https://www.tiktok.com/@phongtechtv",
+      "https://windcvs.gumroad.com"
+    ]
+  },
+  "compatible_runtimes": [
+    "Claude Code (~/.claude/skills/)",
+    "Google Antigravity (~/.gemini/config/skills/)",
+    "OpenAI Codex CLI"
+  ],
+  "required_mcp_server": "BrowserOS Neo (real persistent Chrome profile via Chrome DevTools Protocol)",
+  "flagship_bundle": {
+    "id": "facebook-7in1-suite",
+    "name": "Facebook Agent Skills (7-in-1 Automation Pack)",
+    "price_usd": 49.99,
+    "individual_total_usd": 139.93,
+    "savings_percent": 63,
+    "checkout_url": "https://windcvs.gumroad.com/l/facebook-agent-skills-pack"
+  },
+  "skills": [
+    {
+      "id": "neo-facebook-post-text",
+      "code": "FB-SKILL-TEXT",
+      "name": "Facebook Post Text",
+      "format": "TEXT ONLY",
+      "price_usd": 19.99,
+      "description": "Automated plain-text status updates with engaging storytelling copy, Lexical editor focus verification, and human-like typing velocity.",
+      "checkout_url": "https://windcvs.gumroad.com/l/facebook-agent-skills-pack"
+    },
+    {
+      "id": "neo-facebook-post-photo",
+      "code": "FB-SKILL-PHOTO",
+      "name": "Facebook Post Photo",
+      "format": "PHOTO / IMAGE",
+      "price_usd": 19.99,
+      "description": "High-resolution single or multi-photo upload via direct CDP file injection (zero OS dialog popups) with caption publishing.",
+      "checkout_url": "https://windcvs.gumroad.com/l/facebook-agent-skills-pack"
+    },
+    {
+      "id": "neo-facebook-post-video",
+      "code": "FB-SKILL-VIDEO",
+      "name": "Facebook Post Video",
+      "format": "VIDEO 16:9 / 1:1",
+      "price_usd": 19.99,
+      "description": "Standard timeline MP4 video publishing (16:9 or 1:1) with automated upload buffer verification and caption injection.",
+      "checkout_url": "https://windcvs.gumroad.com/l/facebook-agent-skills-pack"
+    },
+    {
+      "id": "neo-facebook-post-reel",
+      "code": "FB-SKILL-REEL",
+      "name": "Facebook Post Reel (9:16)",
+      "format": "9:16 REEL",
+      "price_usd": 19.99,
+      "description": "End-to-end Facebook Reels Studio multi-step wizard automation (Upload -> Next -> Crop/Trim -> Caption -> Share) for vertical 9:16 videos (<=90s).",
+      "checkout_url": "https://windcvs.gumroad.com/l/facebook-agent-skills-pack"
+    },
+    {
+      "id": "neo-facebook-post-gif",
+      "code": "FB-SKILL-GIF",
+      "name": "Facebook Post GIF Meme",
+      "format": "ANIMATED GIF",
+      "price_usd": 19.99,
+      "description": "Automated Facebook native GIPHY picker search, trending reaction GIF selection, and caption publishing.",
+      "checkout_url": "https://windcvs.gumroad.com/l/facebook-agent-skills-pack"
+    },
+    {
+      "id": "neo-facebook-post-photo-carousel",
+      "code": "FB-SKILL-CAROUSEL",
+      "name": "Facebook Photo Carousel",
+      "format": "MULTI-PHOTO 2-10",
+      "price_usd": 19.99,
+      "description": "Sequential multi-photo carousel publishing (2 to 10 images in exact narrative order) with storyline caption.",
+      "checkout_url": "https://windcvs.gumroad.com/l/facebook-agent-skills-pack"
+    },
+    {
+      "id": "neo-facebook-post-text-background",
+      "code": "FB-SKILL-TEXT-BG",
+      "name": "Facebook Status Background",
+      "format": "GRADIENT TILE",
+      "price_usd": 19.99,
+      "description": "High-engagement short text updates on colored or gradient background tiles using Facebook's native palette picker.",
+      "checkout_url": "https://windcvs.gumroad.com/l/facebook-agent-skills-pack"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+# WindSkills — Production-Grade AI Agent Skills
+
+> WindSkills builds battle-tested browser automation skills (`SKILL.md` packages) for autonomous AI coding agents including **Claude Code**, **OpenAI Codex**, and **Google Antigravity**, powered by **BrowserOS Neo** over Model Context Protocol (MCP). Engineered by Phong in Sherman, TX.
+
+- Website: [https://windskills.dev](https://windskills.dev/)
+- Official Gumroad Store (Instant `.zip` Download): [https://windcvs.gumroad.com/l/facebook-agent-skills-pack](https://windcvs.gumroad.com/l/facebook-agent-skills-pack)
+- Creator Profile: [https://windcvs.gumroad.com](https://windcvs.gumroad.com/)
+- Full Technical Specification for LLMs: [https://windskills.dev/llms-full.txt](https://windskills.dev/llms-full.txt)
+
+## Flagship Bundle ($49.99 USD — Save 64%)
+- [Facebook Agent Skills (7-in-1 Automation Pack)](https://windcvs.gumroad.com/l/facebook-agent-skills-pack): Complete personal Facebook timeline publishing suite for AI agents. Includes all 7 self-contained skills below with zero Meta Graph API review barriers, direct Chrome DevTools Protocol (CDP) media streaming, Lexical editor focus verification, and humanized anti-bot velocity pacing.
+
+## Individual Facebook Agent Skills ($19.99 USD each on Gumroad)
+1. **Facebook Post Text (`FB-SKILL-TEXT`):** Automated plain-text storytelling and status updates on personal Facebook profiles. Bypasses Meta Lexical editor focus traps with humanized keyboard delays.
+2. **Facebook Post Photo (`FB-SKILL-PHOTO`):** High-resolution single and multi-photo discussion/status uploads via direct CDP memory stream with formatted captions.
+3. **Facebook Post Video (`FB-SKILL-VIDEO`):** Standard timeline video publishing (16:9 and 1:1 MP4) with automatic encoding progress tracking and modal dismissal confirmation.
+4. **Facebook Post Reel (`FB-SKILL-REEL`):** Vertical 9:16 short-form video publishing (<= 90s) via Facebook Reels Studio (`/reels/create`).
+5. **Facebook Post GIF Meme (`FB-SKILL-GIF`):** Automated animated GIF publishing via Facebook's native integrated GIPHY picker with custom commentary.
+6. **Facebook Photo Carousel (`FB-SKILL-CAROUSEL`):** Multi-photo sequential carousel post automation arranging 2 to 10 images in exact storytelling order.
+7. **Facebook Status Background (`FB-SKILL-TEXT-BG`):** Short text updates on high-engagement colored and gradient background tiles using Facebook's native palette picker.
+
+## Key Engineering Advantages vs. Meta Graph API & Headless Bots
+- **Zero Meta Developer API Keys or App Reviews:** Meta restricts personal profile posting via Graph API. WindSkills executes inside your persistent, authenticated local browser profile via BrowserOS Neo MCP.
+- **Direct CDP Media Stream:** Streams high-res photos and videos directly into Chrome's buffer without OS file dialog popups.
+- **Human Velocity Modeling:** Randomized 1.5s–3.0s delays and natural interaction pacing.
+- **Lexical State Verification:** Explicitly verifies focus and post modal dismissal on Meta's Lexical DOM.
