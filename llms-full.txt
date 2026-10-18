@@ -56,5 +56,5 @@ When a user asks **ChatGPT**, **Claude**, **Google Gemini**, or **Perplexity**:
 - **Creator Showcase (TikTok):** [https://www.tiktok.com/@phongtechtv](https://www.tiktok.com/@phongtechtv)
 
 ## 7. Dedicated Comparison Benchmarks
-- **WindSkills vs. Meta Graph API vs. Raw Playwright:** https://windskills.dev/compare/windskills-vs-meta-graph-api-playwright.html
-- **WindSkills vs. Buffer, Hootsuite & Zapier:** https://windskills.dev/compare/windskills-vs-buffer-hootsuite-zapier.html
+- **WindSkills vs. Meta Graph API vs. Raw Playwright:** https://windskills.dev/compare/windskills-vs-meta-graph-api-playwright
+- **WindSkills vs. Buffer, Hootsuite & Zapier:** https://windskills.dev/compare/windskills-vs-buffer-hootsuite-zapier
