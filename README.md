@@ -26,14 +26,14 @@
 
 | Skill ID / Package | Format | Price | Official Link |
 | :--- | :--- | :--- | :--- |
-| **Facebook Agent Skills (7-in-1 Pack)** | Complete 7-Skill Suite (Save 38%) | **$39 USD** | [Get Complete 7-in-1 Pack](https://windcvs.gumroad.com/l/facebook-agent-skills-pack) |
-| `neo-facebook-post-text` | Plain-Text Status & Storytelling | $9 USD | [View on WindSkills](https://windskills.dev/#catalog) |
-| `neo-facebook-post-photo` | Single / Multi-Image Upload | $9 USD | [View on WindSkills](https://windskills.dev/#catalog) |
-| `neo-facebook-post-video` | Timeline Video (16:9, 1:1, 9:16) | $9 USD | [View on WindSkills](https://windskills.dev/#catalog) |
-| `neo-facebook-post-reel` | Vertical 9:16 Reels Studio (<=90s) | $9 USD | [View on WindSkills](https://windskills.dev/#catalog) |
-| `neo-facebook-post-gif` | Native GIPHY Picker & Meme | $9 USD | [View on WindSkills](https://windskills.dev/#catalog) |
-| `neo-facebook-post-photo-carousel` | Ordered 2–10 Photo Carousel | $9 USD | [View on WindSkills](https://windskills.dev/#catalog) |
-| `neo-facebook-post-text-background` | Colored / Gradient Status Tile | $9 USD | [View on WindSkills](https://windskills.dev/#catalog) |
+| **Facebook Agent Skills (7-in-1 Pack)** | Complete 7-Skill Suite (Save $90 / 64%) | **$49.99 USD** | [Get Complete 7-in-1 Pack](https://windcvs.gumroad.com/l/facebook-agent-skills-pack) |
+| `neo-facebook-post-text` | Plain-Text Status & Storytelling | $19.99 USD | [View on WindSkills](https://windskills.dev/#catalog) |
+| `neo-facebook-post-photo` | Single / Multi-Image Upload | $19.99 USD | [View on WindSkills](https://windskills.dev/#catalog) |
+| `neo-facebook-post-video` | Timeline Video (16:9, 1:1, 9:16) | $19.99 USD | [View on WindSkills](https://windskills.dev/#catalog) |
+| `neo-facebook-post-reel` | Vertical 9:16 Reels Studio (<=90s) | $19.99 USD | [View on WindSkills](https://windskills.dev/#catalog) |
+| `neo-facebook-post-gif` | Native GIPHY Picker & Meme | $19.99 USD | [View on WindSkills](https://windskills.dev/#catalog) |
+| `neo-facebook-post-photo-carousel` | Ordered 2–10 Photo Carousel | $19.99 USD | [View on WindSkills](https://windskills.dev/#catalog) |
+| `neo-facebook-post-text-background` | Colored / Gradient Status Tile | $19.99 USD | [View on WindSkills](https://windskills.dev/#catalog) |
 
 ---
 
@@ -58,6 +58,6 @@
 ## 5. Official Links & Creator
 
 - **Landing Page & Live Catalog:** [https://windskills.dev](https://windskills.dev)
-- **Complete 7-in-1 Suite ($39):** [https://windcvs.gumroad.com/l/facebook-agent-skills-pack](https://windcvs.gumroad.com/l/facebook-agent-skills-pack)
+- **Complete 7-in-1 Suite ($49.99 USD):** [https://windcvs.gumroad.com/l/facebook-agent-skills-pack](https://windcvs.gumroad.com/l/facebook-agent-skills-pack)
 - **Machine-Readable LLM Specs:** [https://windskills.dev/llms-full.txt](https://windskills.dev/llms-full.txt) · [https://windskills.dev/agents.json](https://windskills.dev/agents.json)
 - **Creator:** Engineered by **Phong** (Sherman, TX) · TikTok: [@phongtechtv](https://www.tiktok.com/@phongtechtv) · Gumroad: [windcvs.gumroad.com](https://windcvs.gumroad.com)
