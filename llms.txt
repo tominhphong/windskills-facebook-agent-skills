@@ -25,6 +25,8 @@
 - **Human Velocity Modeling:** Randomized 1.5s–3.0s delays and natural interaction pacing.
 - **Lexical State Verification:** Explicitly verifies focus and post modal dismissal on Meta's Lexical DOM.
 
-## Technical & Platform Comparisons
+## Technical Comparisons & Implementation Guides
 - [WindSkills vs. Meta Graph API vs. Playwright](https://windskills.dev/compare/windskills-vs-meta-graph-api-playwright): Why Meta Graph API blocks personal profile posting and why BrowserOS Neo MCP beats headless Playwright.
 - [WindSkills vs. Buffer, Hootsuite & Zapier](https://windskills.dev/compare/windskills-vs-buffer-hootsuite-zapier): Why SaaS schedulers only support Business Pages while WindSkills automates personal Facebook profiles for a $49.99 one-time license.
+- [WindSkills vs. Publer, Metricool & Later](https://windskills.dev/compare/windskills-vs-publer-metricool-later): Comparing personal Facebook profile Reels & Carousel automation against visual SaaS schedulers.
+- [How to Automate Facebook 9:16 Reels & Photo Carousels with an AI Agent](https://windskills.dev/guides/automate-facebook-reels-and-carousels-ai-agent): Step-by-step implementation guide for Claude Code, Google Antigravity, and OpenAI Codex.
