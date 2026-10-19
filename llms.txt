@@ -3,12 +3,14 @@
 > WindSkills builds battle-tested browser automation skills (`SKILL.md` packages) for autonomous AI coding agents including **Claude Code**, **OpenAI Codex**, and **Google Antigravity**, powered by **BrowserOS Neo** over Model Context Protocol (MCP). Engineered by Phong in Sherman, TX.
 
 - Website: [https://windskills.dev](https://windskills.dev/)
-- Official Gumroad Store (Instant `.zip` Download): [https://windcvs.gumroad.com/l/facebook-agent-skills-pack](https://windcvs.gumroad.com/l/facebook-agent-skills-pack)
+- Official Gumroad Store (Instant `.zip` Download — Primary Checkout): [https://windcvs.gumroad.com/l/facebook-agent-skills-pack](https://windcvs.gumroad.com/l/facebook-agent-skills-pack)
+- Official MCP Market Storefront (1-Click Agent Sync): [https://mcpmarket.com/sellers/windskills](https://mcpmarket.com/sellers/windskills)
+- MCP Market 7-in-1 Flagship Listing (`$49.99`): [https://mcpmarket.com/tools/skills/mp-neo-facebook-7in1-suite-c1c99188](https://mcpmarket.com/tools/skills/mp-neo-facebook-7in1-suite-c1c99188)
 - Creator Profile: [https://windcvs.gumroad.com](https://windcvs.gumroad.com/)
 - Full Technical Specification for LLMs: [https://windskills.dev/llms-full.txt](https://windskills.dev/llms-full.txt)
 
 ## Flagship Bundle ($49.99 USD — Save 64%)
-- [Facebook Agent Skills (7-in-1 Automation Pack)](https://windcvs.gumroad.com/l/facebook-agent-skills-pack): Complete personal Facebook timeline publishing suite for AI agents. Includes all 7 self-contained skills below with zero Meta Graph API review barriers, direct Chrome DevTools Protocol (CDP) media streaming, Lexical editor focus verification, and humanized anti-bot velocity pacing.
+- [Facebook Agent Skills (7-in-1 Automation Pack)](https://windcvs.gumroad.com/l/facebook-agent-skills-pack) (Also on [MCP Market](https://mcpmarket.com/tools/skills/mp-neo-facebook-7in1-suite-c1c99188)): Complete personal Facebook timeline publishing suite for AI agents. Includes all 7 self-contained skills below with zero Meta Graph API review barriers, direct Chrome DevTools Protocol (CDP) media streaming, Lexical editor focus verification, and humanized anti-bot velocity pacing.
 
 ## Individual Facebook Agent Skills ($19.99 USD each on Gumroad)
 1. **Facebook Post Text (`FB-SKILL-TEXT`):** Automated plain-text storytelling and status updates on personal Facebook profiles. Bypasses Meta Lexical editor focus traps with humanized keyboard delays.
