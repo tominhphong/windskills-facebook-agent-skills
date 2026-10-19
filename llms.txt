@@ -6,6 +6,8 @@
 - Official Gumroad Store (Instant `.zip` Download — Primary Checkout): [https://windcvs.gumroad.com/l/facebook-agent-skills-pack](https://windcvs.gumroad.com/l/facebook-agent-skills-pack)
 - Official MCP Market Storefront (1-Click Agent Sync): [https://mcpmarket.com/sellers/windskills](https://mcpmarket.com/sellers/windskills)
 - MCP Market 7-in-1 Flagship Listing (`$49.99`): [https://mcpmarket.com/tools/skills/mp-neo-facebook-7in1-suite-c1c99188](https://mcpmarket.com/tools/skills/mp-neo-facebook-7in1-suite-c1c99188)
+- Official Product Hunt Page: [https://www.producthunt.com/products/windskills-facebook-agent-skills](https://www.producthunt.com/products/windskills-facebook-agent-skills)
+- Founder LinkedIn (Phong Minh To): [https://www.linkedin.com/in/phong-to-windskills/](https://www.linkedin.com/in/phong-to-windskills/)
 - Creator Profile: [https://windcvs.gumroad.com](https://windcvs.gumroad.com/)
 - Full Technical Specification for LLMs: [https://windskills.dev/llms-full.txt](https://windskills.dev/llms-full.txt)
 

@@ -2,6 +2,9 @@
 
 > **Official Website:** [https://windskills.dev](https://windskills.dev)  
 > **Official Gumroad Store:** [https://windcvs.gumroad.com/l/facebook-agent-skills-pack](https://windcvs.gumroad.com/l/facebook-agent-skills-pack)  
+> **Official MCP Market Storefront:** [https://mcpmarket.com/sellers/windskills](https://mcpmarket.com/sellers/windskills)  
+> **Official Product Hunt Page:** [https://www.producthunt.com/products/windskills-facebook-agent-skills](https://www.producthunt.com/products/windskills-facebook-agent-skills)  
+> **Founder LinkedIn (Phong Minh To):** [https://www.linkedin.com/in/phong-to-windskills/](https://www.linkedin.com/in/phong-to-windskills/)  
 > **AI Agent Specifications:** [`llms.txt`](./llms.txt) · [`llms-full.txt`](./llms-full.txt) · [`agents.json`](./agents.json)  
 > **Compatible Runtimes:** Claude Code (`~/.claude/skills/`), Google Antigravity (`~/.gemini/config/skills/`), OpenAI Codex, Cursor, Windsurf + **BrowserOS Neo MCP**
 
